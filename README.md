@@ -33,4 +33,5 @@ Aguarde a implantação e teste o serviço usando dados de entrada específicos.
 
 Se não pretender usar o serviço, exclua o ponto de extremidade para evitar custos desnecessários.
 Se terminou de explorar o Azure Machine Learning, pode excluir o espaço de trabalho e recursos associados no Portal Azure.
+
 Lembre-se de substituir os valores fictícios pelos valores reais necessários. Este é um guia resumido, consulte a documentação do Azure para detalhes completos e atualizados.
